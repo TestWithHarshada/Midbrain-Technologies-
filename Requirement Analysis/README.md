@@ -1,9 +1,10 @@
 
 
 1. Project Overview
+
 Testing the functional flow of the MidBrains Technologies website, including navigation and lead generation.
 
-2. Detailed Functional Requirements
+3. Detailed Functional Requirements
 - Homepage: Loading speed, Title, URL validation.
 - Navigation: All menu links (MERN, Testing, etc.) should work.
 - Form Submission: Contact form and Lead form functionality.
