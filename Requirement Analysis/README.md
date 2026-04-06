@@ -2,7 +2,7 @@
 
 1. Project Overview
 
-Testing the functional flow of the MidBrains Technologies website, including navigation and lead generation.
+Testing the functional flow of the Midbrain Academy website, including navigation and lead generation.
 
 3. Detailed Functional Requirements
 - Homepage: Loading speed, Title, URL validation.
