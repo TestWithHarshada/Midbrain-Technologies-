@@ -4,6 +4,7 @@ Project Name - Midbrain Academy Automation Testing
 This project focuses on the end-to-end automation of the Midbrain Academy web application. The goal is to ensure the stability and functionality of the platform's core features, such as user registration, course management, and navigation, using a robust automation framework.
 
         2. Automation Tools & Technologies
+  - Testing Type: Manual / Automation
   - Language: Java
   - Automation Tool: Selenium WebDriver
   - Framework: TestNG (For Assertion ani Reporting)
