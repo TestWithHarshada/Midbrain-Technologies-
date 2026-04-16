@@ -1,4 +1,4 @@
-  Project Name - Midbrains Academy
+- Project Name : Midbrains Academy - Website Automation Testing
 
 1. Project Overview
 
